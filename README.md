@@ -8,3 +8,4 @@ Hello! im RQGUE also known before as aelijiao! ,i am a genderfluid person and i 
 **- YOUR NUMBER ONE ROGUE LOVER**  <3
 
   ﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌
+<img width="140" src="https://komarev.com/ghpvc/?username=githubusernamehere&color=32cd32" alt="views count">
