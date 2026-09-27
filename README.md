@@ -6,9 +6,7 @@
 $\Large\textcolor{green}{\textsf{RQGUE/AELI ⨷}}$ 
 
 
-<img width="100" height="100" alt="Rogue_ Champion Lord Icon" src="https://github.com/user-attachments/assets/555fde80-26c5-458a-b9d2-205e42aba025" />    
-
->             
+<img width="100" height="100" alt="Rogue_ Champion Lord Icon" src="https://github.com/user-attachments/assets/555fde80-26c5-458a-b9d2-205e42aba025" />             
 
 
 <img width="140" src="https://komarev.com/ghpvc/?username=your-github-username&label=pookers+spotted&color=ffdd00">
