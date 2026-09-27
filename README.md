@@ -13,7 +13,11 @@ $\Large\textcolor{green}{\textsf{RQGUE/AELI ⨷}}$
 
 <img width="140" src="https://komarev.com/ghpvc/?username=your-github-username&label=pookers+spotted&color=ffdd00">
 
-<img width="890" height="500" alt="b0db26067b9b50839057a2b18f1b5a67fa125b58eb9913a6114cceb568" src="https://github.com/user-attachments/assets/f2bee844-1df4-4509-91fe-ec81ca209734"> 
+
+<img width="800" height="400" alt="Rogue and Gambit gif banner" src="https://github.com/user-attachments/assets/c538d862-c467-4771-a21b-87e32e54e69c" />
+
+
+
 
 ﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌          
 
