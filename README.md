@@ -9,7 +9,6 @@ $\Large\textcolor{green}{\textsf{RQGUE/AELI ⨷}}$
 <img width="100" height="100" alt="Rogue_ Champion Lord Icon" src="https://github.com/user-attachments/assets/555fde80-26c5-458a-b9d2-205e42aba025" />             
 
 
-<img width="140" src="https://komarev.com/ghpvc/?username=your-github-username&label=pookers+spotted&color=ffdd00">
 
 
 <img width="800" height="400" alt="Rogue and Gambit gif banner" src="https://github.com/user-attachments/assets/c538d862-c467-4771-a21b-87e32e54e69c" />
